@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+}
+nav {
+  background-color: #5452cc;
+  padding: 15px;
+}
+.brand {
+  color: #000;
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.navLinks {
+  float: right;
+  margin: 0;
+  margin-top: 5px;
+}
+.navLinks li {
+  display: inline;
+  padding: 15px;
+}
+.navLinks a {
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+}
